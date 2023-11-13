@@ -1,0 +1,35 @@
+CRITICAL - 2023-11-06 11:36:33 --> Too few arguments to function App\Controllers\Blog::posts(), 0 passed in /home/bittencourt/code/blog_ci/system/CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH/Controllers/Blog.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Blog->posts()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/bittencourt/code/blog_ci/public/index.php')
+CRITICAL - 2023-11-06 11:36:46 --> Too few arguments to function App\Controllers\Blog::posts(), 0 passed in /home/bittencourt/code/blog_ci/system/CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH/Controllers/Blog.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Blog->posts()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/bittencourt/code/blog_ci/public/index.php')
+CRITICAL - 2023-11-06 11:37:09 --> Too few arguments to function App\Controllers\Blog::posts(), 0 passed in /home/bittencourt/code/blog_ci/system/CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH/Controllers/Blog.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Blog->posts()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/bittencourt/code/blog_ci/public/index.php')
+CRITICAL - 2023-11-06 11:37:25 --> Too few arguments to function App\Controllers\Blog::posts(), 0 passed in /home/bittencourt/code/blog_ci/system/CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH/Controllers/Blog.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Blog->posts()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/bittencourt/code/blog_ci/public/index.php')
+CRITICAL - 2023-11-06 17:46:41 --> Too few arguments to function App\Controllers\Blog::posts(), 0 passed in /home/bittencourt/code/blog_ci/system/CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH/Controllers/Blog.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Blog->posts()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/bittencourt/code/blog_ci/public/index.php')
